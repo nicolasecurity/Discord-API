@@ -1,20 +1,20 @@
 {
-  "name": "worst-discord-api",
+  "name": "discord-api",
   "version": "1.1.1",
-  "description": "A web API made by worst#1337 for discord usage.",
+  "description": "A web API made by Nicolas Wayand for discord usage.",
   "main": "./src/app.js",
   "scripts": {
     "start": "nodemon"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devilgoth/discord-api"
+    "url": "https://github.com/nicolasecurity/Discord-API/"
   },
   "keywords": [
     "discord-web-api",
     "discord-user-api"
   ],
-  "author": "worst#1337",
+  "author": "NicolasWayand",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
