@@ -1,0 +1,26 @@
+{
+  "name": "worst-discord-api",
+  "version": "1.1.1",
+  "description": "A web API made by worst#1337 for discord usage.",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devilgoth/discord-api"
+  },
+  "keywords": [
+    "discord-web-api",
+    "discord-user-api"
+  ],
+  "author": "worst#1337",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
