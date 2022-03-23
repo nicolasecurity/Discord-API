@@ -23,6 +23,8 @@ You can access the official Discord documentation via the <a href='https://disco
 - Add a `.env` file and put the following information:
   - `TOKEN=YOUR BOT TOKEN`
   - `PORT=8080`
+- Run `node app.js` in the `src` folder or just `node .`.
+- Your API is running!
 
 <h2> Creating a Discord Application/Bot </h2>
 
